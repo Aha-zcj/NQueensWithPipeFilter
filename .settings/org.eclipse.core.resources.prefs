@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+encoding//src/filter/AndFilter.java=UTF-8
+encoding//src/filter/CompositeFilter.java=UTF-8
+encoding//src/iterface/IFilter.java=UTF-8
